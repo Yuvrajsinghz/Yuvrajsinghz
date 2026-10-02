@@ -1,6 +1,6 @@
 <h1 data-importer="text" align="center">THAKUR YUVRAJ SINGH RATHORE</h1>
 
-### 
+###  
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="60" alt="c logo"  />
