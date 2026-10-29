@@ -7,7 +7,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="60" alt="csharp logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="60" alt="git logo"  />
   <img width="12" />
